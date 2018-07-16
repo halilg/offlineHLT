@@ -36,6 +36,7 @@ MC
 results 
 
 #other 
+Cert_*_JSON.txt
 *.json 
 *.root 
 *.pdf 
