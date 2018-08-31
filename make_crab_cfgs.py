@@ -29,7 +29,7 @@ config.Data.outputDatasetTag = "hlt-{}_{}-v{}".format(tag, era, version)
 config.Site.storageSite = 'T2_TR_METU'
 """
 
-parts = ["v1x_2018A-v1", "v20_2018A-v1", "v20_2018A-v2", "v21_2018A-v2", "v21_2018A-v3", "v21_2018B-v1", "v22_2018B-v1"]
+parts = ["v1x_2018A-v1", "v20_2018A-v1", "v20_2018A-v2", "v21_2018A-v2", "v21_2018A-v3", "v21_2018B-v1", "v22_2018B-v1", "v22_2018B-v2", "v22_2018C-v1", "v22_2018C-v2", "v30_2018C-v2", "v30_2018C-v3", "v31_2018C-v3" ]
 datasets=["EGamma", "JetHT", "MET", "SingleMuon"]
 #datasets=["MET"]
 
