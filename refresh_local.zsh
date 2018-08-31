@@ -9,7 +9,7 @@ echo PDs: $PDS
 
 #checkGridProxy
 
-hltvers=(hlt-v1x hlt-v20 hlt-v21)
+hltvers=(hlt-v1x hlt-v20 hlt-v21 hlt-v22 hlt-v30 hlt-v31)
 eras=(2018A 2018B)
 
 for pd in $PDS;do
