@@ -4,7 +4,7 @@ import json
 
 #### Script configuration ########################################
 
-jsonfile="Cert_314472-317591_13TeV_PromptReco_Collisions18_JSON.txt"
+jsonfile="Cert_314472-321777_13TeV_PromptReco_Collisions18_JSON.txt"
 fnameTemplate = "mycert_hlt-{}_JSON.txt" 
 
 #eras=["A", "B"]
