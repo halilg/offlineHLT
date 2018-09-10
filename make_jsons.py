@@ -10,7 +10,7 @@ fnameTemplate = "mycert_hlt-{}_JSON.txt"
 #eras=["A", "B"]
 
 # Bunlar datasetler
-runlimits=["A_1", "A_2", "A_3", "B_1", "B_2", "C_1", "C_2", "C_3"]
+runlimits=["A_1", "A_2", "A_3", "B_1", "B_2", "C_1", "C_2", "C_3", "D_2"]
 
 runlimit={ "A_1":[315252, 316238],
            "A_2":[316239, 316568],
